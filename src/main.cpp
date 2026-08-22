@@ -6,7 +6,7 @@
 // 1 = pawn
 // 2 = rook
 // 3 = knight
-// 4 = knight
+
 // 5 = bishop
 // 6 = queen
 // 7 = king
