@@ -1,1 +1,1 @@
-this is a chess project under development
+this is a chess game
